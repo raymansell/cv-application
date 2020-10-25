@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cv-application/static/css/main.fa0aca01.chunk.css",
+    "main.js": "/cv-application/static/js/main.923c4dd0.chunk.js",
+    "main.js.map": "/cv-application/static/js/main.923c4dd0.chunk.js.map",
+    "runtime-main.js": "/cv-application/static/js/runtime-main.3bf3af9d.js",
+    "runtime-main.js.map": "/cv-application/static/js/runtime-main.3bf3af9d.js.map",
+    "static/js/2.105c0cb6.chunk.js": "/cv-application/static/js/2.105c0cb6.chunk.js",
+    "static/js/2.105c0cb6.chunk.js.map": "/cv-application/static/js/2.105c0cb6.chunk.js.map",
+    "index.html": "/cv-application/index.html",
+    "static/css/main.fa0aca01.chunk.css.map": "/cv-application/static/css/main.fa0aca01.chunk.css.map",
+    "static/js/2.105c0cb6.chunk.js.LICENSE.txt": "/cv-application/static/js/2.105c0cb6.chunk.js.LICENSE.txt",
+    "static/media/avatar.1c3a0ba3.svg": "/cv-application/static/media/avatar.1c3a0ba3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bf3af9d.js",
+    "static/js/2.105c0cb6.chunk.js",
+    "static/css/main.fa0aca01.chunk.css",
+    "static/js/main.923c4dd0.chunk.js"
+  ]
+}
